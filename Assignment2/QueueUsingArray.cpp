@@ -50,6 +50,7 @@ int main(){
 
     cout<< a.dequeue() << "\n";
     cout << a.dequeue() << "\n";
-    cout << a.dequeue() << endl;
+    cout << a.dequeue() << "\n";
+    cout << "Ahmed Ehab Mohmaed Rashad || G1 " << endl;
     
 }
