@@ -129,6 +129,8 @@ int main()
 		cout << "Item Found \n";
 	else
 		cout << "Not found \n";
-	cout << s.count() <<endl;
+	cout << s.count() <<"\n";
+	 cout << "Ahmed Ehab Mohmaed Rashad || G1 " << endl;
+
 
 }
